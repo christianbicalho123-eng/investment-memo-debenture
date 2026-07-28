@@ -2,8 +2,6 @@
 
 ## Minas Energia S.A. — Debenture Case Study
 
-![Investment Memo Cover](./cover.png)
-
 This repository contains a fictional corporate credit analysis developed to simulate the evaluation of a debenture issuance in the Brazilian capital market.
 
 The project assesses the issuer's financial profile, credit quality, capital structure, transaction terms, risks and investment attractiveness.
